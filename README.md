@@ -1,3 +1,3 @@
-# Pepsi-ht
+# Pepsi
 
 ![My contribution animation](images/contriboom/game.svg)
