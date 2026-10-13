@@ -403,4 +403,10 @@
 <path d="M1153 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 </g>
-</svg>
+<!-- contriboom-pepsi:start -->
+<style id="pepsi-brand-style">#contributions &gt; g[data-cell] { display: none; }</style>
+<g id="pepsi-wordmark" opacity="1">
+
+<text x="588" y="101" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="92" font-weight="900" font-style="italic" textLength="360" lengthAdjust="spacingAndGlyphs" fill="#2da44e">Pepsi</text>
+</g>
+<!-- contriboom-pepsi:end --></svg>

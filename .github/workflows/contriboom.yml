@@ -29,6 +29,9 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-dir: images/contriboom
 
+      - name: Brand contribution calendar
+        run: node scripts/brand-contriboom.mjs "${{ steps.contriboom.outputs.svg }}" "${{ steps.contriboom.outputs.svg-static }}"
+
       - name: Commit updated images
         shell: bash
         env:
