@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1176" height="164" viewBox="0 0 1176 164" role="img" aria-labelledby="title desc">
 <title id="title">Contribution calendar</title>
-<desc id="desc">@Pepsi-ht: Daily contributions, shaded by activity level.</desc>
+<desc id="desc">Daily contributions, shaded by activity level.</desc>
 <g id="floor">
 <rect x="6" y="6" width="20" height="20" rx="3" fill="#eff2f5"/>
 <rect x="6" y="28" width="20" height="20" rx="3" fill="#eff2f5"/>
@@ -374,39 +374,369 @@
 <rect x="1150" y="116" width="20" height="20" rx="3" fill="#eff2f5"/>
 <rect x="1150" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
 </g><g id="contributions">
-<g data-cell="28,3"><title>2026-04-29: 1 contributions</title>
-<rect x="622" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<g data-cell="2,0"><title>2025-01-19: 4 contributions</title>
+<rect x="50" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M53 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="2,1"><title>2025-01-20: 4 contributions</title>
+<rect x="50" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M53 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="2,2"><title>2025-01-21: 4 contributions</title>
+<rect x="50" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M53 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="2,3"><title>2025-01-22: 4 contributions</title>
+<rect x="50" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M53 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="2,4"><title>2025-01-23: 4 contributions</title>
+<rect x="50" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M53 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="2,5"><title>2025-01-24: 4 contributions</title>
+<rect x="50" y="116" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M53 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="2,6"><title>2025-01-25: 4 contributions</title>
+<rect x="50" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M53 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="3,0"><title>2025-01-26: 4 contributions</title>
+<rect x="72" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M75 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="3,4"><title>2025-01-30: 4 contributions</title>
+<rect x="72" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M75 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="4,0"><title>2025-02-02: 4 contributions</title>
+<rect x="94" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M97 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="4,4"><title>2025-02-06: 4 contributions</title>
+<rect x="94" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M97 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="5,0"><title>2025-02-09: 4 contributions</title>
+<rect x="116" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M119 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="5,4"><title>2025-02-13: 4 contributions</title>
+<rect x="116" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M119 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="6,0"><title>2025-02-16: 4 contributions</title>
+<rect x="138" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M141 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="6,4"><title>2025-02-20: 4 contributions</title>
+<rect x="138" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M141 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="7,0"><title>2025-02-23: 4 contributions</title>
+<rect x="160" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M163 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="7,1"><title>2025-02-24: 4 contributions</title>
+<rect x="160" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M163 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="7,3"><title>2025-02-26: 4 contributions</title>
+<rect x="160" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M163 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="7,4"><title>2025-02-27: 4 contributions</title>
+<rect x="160" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M163 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="8,1"><title>2025-03-03: 4 contributions</title>
+<rect x="182" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M185 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="8,2"><title>2025-03-04: 4 contributions</title>
+<rect x="182" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M185 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="8,3"><title>2025-03-05: 4 contributions</title>
+<rect x="182" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M185 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="14,1"><title>2025-04-14: 4 contributions</title>
+<rect x="314" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M317 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="14,2"><title>2025-04-15: 4 contributions</title>
+<rect x="314" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M317 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="14,3"><title>2025-04-16: 4 contributions</title>
+<rect x="314" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M317 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="14,4"><title>2025-04-17: 4 contributions</title>
+<rect x="314" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M317 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="14,5"><title>2025-04-18: 4 contributions</title>
+<rect x="314" y="116" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M317 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="15,0"><title>2025-04-20: 4 contributions</title>
+<rect x="336" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M339 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="15,3"><title>2025-04-23: 4 contributions</title>
+<rect x="336" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M339 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="15,6"><title>2025-04-26: 4 contributions</title>
+<rect x="336" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M339 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="16,0"><title>2025-04-27: 4 contributions</title>
+<rect x="358" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M361 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="16,3"><title>2025-04-30: 4 contributions</title>
+<rect x="358" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M361 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="16,6"><title>2025-05-03: 4 contributions</title>
+<rect x="358" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M361 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="17,0"><title>2025-05-04: 4 contributions</title>
+<rect x="380" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M383 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="17,3"><title>2025-05-07: 4 contributions</title>
+<rect x="380" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M383 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="17,6"><title>2025-05-10: 4 contributions</title>
+<rect x="380" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M383 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="18,0"><title>2025-05-11: 4 contributions</title>
+<rect x="402" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M405 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="18,3"><title>2025-05-14: 4 contributions</title>
+<rect x="402" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M405 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="18,6"><title>2025-05-17: 4 contributions</title>
+<rect x="402" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M405 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="19,1"><title>2025-05-19: 4 contributions</title>
+<rect x="424" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M427 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="19,3"><title>2025-05-21: 4 contributions</title>
+<rect x="424" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M427 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="19,5"><title>2025-05-23: 4 contributions</title>
+<rect x="424" y="116" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M427 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="25,0"><title>2025-06-29: 4 contributions</title>
+<rect x="556" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M559 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="25,1"><title>2025-06-30: 4 contributions</title>
+<rect x="556" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M559 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="25,2"><title>2025-07-01: 4 contributions</title>
+<rect x="556" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M559 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="25,3"><title>2025-07-02: 4 contributions</title>
+<rect x="556" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M559 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="25,4"><title>2025-07-03: 4 contributions</title>
+<rect x="556" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M559 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="25,5"><title>2025-07-04: 4 contributions</title>
+<rect x="556" y="116" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M559 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="25,6"><title>2025-07-05: 4 contributions</title>
+<rect x="556" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M559 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="26,0"><title>2025-07-06: 4 contributions</title>
+<rect x="578" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M581 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="26,3"><title>2025-07-09: 4 contributions</title>
+<rect x="578" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M581 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="27,0"><title>2025-07-13: 4 contributions</title>
+<rect x="600" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M603 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="27,3"><title>2025-07-16: 4 contributions</title>
+<rect x="600" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M603 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="28,0"><title>2025-07-20: 4 contributions</title>
+<rect x="622" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M625 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="28,3"><title>2025-07-23: 4 contributions</title>
+<rect x="622" y="72" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M625 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="31,1"><title>2026-05-18: 3 contributions</title>
+<g data-cell="29,0"><title>2025-07-27: 4 contributions</title>
+<rect x="644" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M647 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="29,3"><title>2025-07-30: 4 contributions</title>
+<rect x="644" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M647 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="30,0"><title>2025-08-03: 4 contributions</title>
+<rect x="666" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M669 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="30,1"><title>2025-08-04: 4 contributions</title>
+<rect x="666" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M669 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="30,3"><title>2025-08-06: 4 contributions</title>
+<rect x="666" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M669 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="31,1"><title>2025-08-11: 4 contributions</title>
 <rect x="688" y="28" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M691 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="33,1"><title>2026-06-01: 2 contributions</title>
-<rect x="732" y="28" width="20" height="20" rx="3" fill="#2da44e"/>
-<path d="M735 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+<g data-cell="31,2"><title>2025-08-12: 4 contributions</title>
+<rect x="688" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M691 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="36,3"><title>2026-06-24: 1 contributions</title>
-<rect x="798" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
-<path d="M801 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
-</g>
-<g data-cell="37,1"><title>2026-06-29: 1 contributions</title>
-<rect x="820" y="28" width="20" height="20" rx="3" fill="#4ac26b"/>
+<g data-cell="37,1"><title>2025-09-22: 4 contributions</title>
+<rect x="820" y="28" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M823 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="49,3"><title>2026-09-23: 1 contributions</title>
-<rect x="1084" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<g data-cell="37,2"><title>2025-09-23: 4 contributions</title>
+<rect x="820" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M823 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="37,6"><title>2025-09-27: 4 contributions</title>
+<rect x="820" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M823 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,0"><title>2025-09-28: 4 contributions</title>
+<rect x="842" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M845 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,3"><title>2025-10-01: 4 contributions</title>
+<rect x="842" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M845 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="38,6"><title>2025-10-04: 4 contributions</title>
+<rect x="842" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M845 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,0"><title>2025-10-05: 4 contributions</title>
+<rect x="864" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M867 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,3"><title>2025-10-08: 4 contributions</title>
+<rect x="864" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M867 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="39,6"><title>2025-10-11: 4 contributions</title>
+<rect x="864" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M867 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,0"><title>2025-10-12: 4 contributions</title>
+<rect x="886" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M889 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,3"><title>2025-10-15: 4 contributions</title>
+<rect x="886" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M889 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="40,6"><title>2025-10-18: 4 contributions</title>
+<rect x="886" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M889 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,0"><title>2025-10-19: 4 contributions</title>
+<rect x="908" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M911 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,3"><title>2025-10-22: 4 contributions</title>
+<rect x="908" y="72" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M911 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="41,6"><title>2025-10-25: 4 contributions</title>
+<rect x="908" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M911 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,0"><title>2025-10-26: 4 contributions</title>
+<rect x="930" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M933 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,4"><title>2025-10-30: 4 contributions</title>
+<rect x="930" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M933 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="42,5"><title>2025-10-31: 4 contributions</title>
+<rect x="930" y="116" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M933 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,0"><title>2025-12-07: 4 contributions</title>
+<rect x="1062" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1065 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="48,6"><title>2025-12-13: 4 contributions</title>
+<rect x="1062" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1065 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,0"><title>2025-12-14: 4 contributions</title>
+<rect x="1084" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1087 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,1"><title>2025-12-15: 4 contributions</title>
+<rect x="1084" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1087 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,2"><title>2025-12-16: 4 contributions</title>
+<rect x="1084" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1087 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,3"><title>2025-12-17: 4 contributions</title>
+<rect x="1084" y="72" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M1087 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="52,2"><title>2026-10-13: 1 contributions</title>
-<rect x="1150" y="50" width="20" height="20" rx="3" fill="#4ac26b"/>
-<path d="M1153 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+<g data-cell="49,4"><title>2025-12-18: 4 contributions</title>
+<rect x="1084" y="94" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1087 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,5"><title>2025-12-19: 4 contributions</title>
+<rect x="1084" y="116" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1087 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,6"><title>2025-12-20: 4 contributions</title>
+<rect x="1084" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1087 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,0"><title>2025-12-21: 4 contributions</title>
+<rect x="1106" y="6" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1109 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,6"><title>2025-12-27: 4 contributions</title>
+<rect x="1106" y="138" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1109 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 </g>
-<!-- contriboom-pepsi:start -->
-<style id="pepsi-brand-style">#contributions &gt; g[data-cell] { display: none; }</style>
-<g id="pepsi-wordmark" opacity="1">
-
-<text x="588" y="101" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="92" font-weight="900" font-style="italic" textLength="360" lengthAdjust="spacingAndGlyphs" fill="#2da44e">Pepsi</text>
-</g>
-<!-- contriboom-pepsi:end --></svg>
+</svg>
